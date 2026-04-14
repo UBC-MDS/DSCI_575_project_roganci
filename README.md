@@ -1,5 +1,5 @@
 # DSCI 575 — Information Retrieval with BM25 and Embeddings
-**Team**: `<member1cwl>` & `<member2cwl>`  
+**Team**: `Roganci Fontelera`  
 **Dataset**: Amazon Reviews 2023 — Grocery and Gourmet Food category
 
 ---
